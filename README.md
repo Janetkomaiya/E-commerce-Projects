@@ -71,14 +71,37 @@ The dashboard includes seven interactive charts:
 
 *Figure: Power BI dashboard showing gender representation in media headlines across five newspapers.*
 
+## How to Use the Dataset
 
-## How to Use
-1. Download the repository and open `Gender_Media_Headline_Dashboard.pbix` in Power BI Desktop.  
-2. Explore KPIs for a high-level overview of gender representation.  
-3. Interact with charts to filter by newspaper, region, gender, or date.  
-4. Use the PDF version for offline reference or sharing.
+1. **Download the dataset**  
+   Click [here](https://raw.githubusercontent.com/Janetkomaiya/E-commerce-Projects/main/Newspaper%20Headlines.csv) to download the CSV file.
 
----
+2. **Open the dataset**  
+   You can open the CSV in Excel, Google Sheets, or load it directly into Power BI, Python (pandas), or R for analysis.
+
+3. **Understand the columns**  
+   The dataset includes the following fields:
+   - `NewspaperName` – Name of the newspaper (Punch, Guardian, Vanguard, Premium Times, etc.)
+   - `Date` – Date of publication
+   - `Headline` – Text of the headline
+   - `Gender` – Gender of the subject referenced in the headline (Male/Female)
+   - `Tone` – Sentiment of the headline (Positive, Neutral, Negative)
+   - `Region` – Geographic location referenced in the headline
+   - `Occupation` – Occupation or role mentioned in the headline
+
+4. **Perform analysis**  
+   - **Power BI:** Load the CSV into Power BI to reproduce the dashboard or create new visualizations.  
+   - **Python/R:** Use this dataset for statistical analysis, charts, or machine learning on gender representation in media headlines.  
+
+5. **Interpret results**  
+   - KPIs in the dashboard show high-level insights (total headlines, male/female counts, newspaper counts).  
+   - Charts allow deeper analysis: tone of coverage, occupational framing, regional distribution, timeline trends, and newspaper comparisons.  
+
+6. **Cite the dataset**  
+   If you use this dataset in your research, please cite:
+
+   > Ifidon Komaiya, J. (2025). *Gender Representation in Media Headlines: Dataset and Dashboard*. [GitHub Repository](https://github.com/Janetkomaiya/Gender-Representation-in-Media-Headlines)
+
 
 ## Significance
 This dashboard provides a **rigorous, data-driven perspective** on gender representation in media headlines. It is suitable for:  
@@ -87,14 +110,3 @@ This dashboard provides a **rigorous, data-driven perspective** on gender repres
 - Public awareness initiatives  
 - Comparative studies over time or across regions  
 
----
-
-## Citation
-If you use this dashboard or dataset in research, please cite:
-
-> Ifidon Komaiya, J. (2025). *Gender Representation in Media Headlines: Power BI Dashboard*. [GitHub Repository](https://github.com/yourusername/gender-media-dashboard).
-
----
-
-## License
-This project is licensed under the MIT License – see `LICENSE` file for details.
