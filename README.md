@@ -3,6 +3,10 @@
 ## Project Overview
 This repository hosts a comprehensive Power BI dashboard analyzing gender representation in media headlines across five major Nigerian newspapers. The project examines how men and women are portrayed in media coverage, focusing on tone, occupational framing, regional distribution, and temporal trends. 
 
+### Key Insight
+Analysis of 150 headlines across five newspapers shows that female representation in media headlines is consistently lower than male representation. This finding aligns with existing research on gender disparities in news coverage and highlights areas for further investigation.
+
+
 This dashboard serves as a research tool for scholars, journalists, and policymakers interested in gender equity in media representation. It combines high-level metrics with detailed visualizations for evidence-based insights.
 
 ---
