@@ -65,6 +65,12 @@ The dashboard includes seven interactive charts:
 
 ---
 
+### Dashboard Preview
+
+![Gender Representation Dashboard](https://raw.githubusercontent.com/Janetkomaiya/Gender-Representation-in-Media-Headlines/d28c469bbc0bfb6b40fa9b059e4f52d05b68ecf2/gender_representation_Dashboard.png)
+
+*Figure: Power BI dashboard showing gender representation in media headlines across five newspapers.*
+
 ## Dashboard Files
 | File | Description |
 |------|-------------|
