@@ -20,7 +20,9 @@ This dashboard serves as a research tool for scholars, journalists, and policyma
 - Region  
 - Occupation or role mentioned in the headline  
 
-> **File:** `Data/media_headlines_dataset.csv`
+> **File:**
+> The dataset can be downloaded [here] (https://github.com/Janetkomaiya/E-commerce-Projects/blob/main/Newspaper%20Headlines.csv) 
+> `Data/media_headlines_dataset.csv`
 
 ---
 
