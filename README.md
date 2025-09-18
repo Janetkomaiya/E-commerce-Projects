@@ -71,14 +71,6 @@ The dashboard includes seven interactive charts:
 
 *Figure: Power BI dashboard showing gender representation in media headlines across five newspapers.*
 
-## Dashboard Files
-| File | Description |
-|------|-------------|
-| `Dashboard/Gender_Media_Headline_Dashboard.pbix` | Power BI Desktop file for interactive exploration |
-| `Dashboard/Dashboard_Export.pdf` | Static PDF export of the dashboard |
-| `Images/` | Screenshots of KPIs and individual charts for reference |
-
----
 
 ## How to Use
 1. Download the repository and open `Gender_Media_Headline_Dashboard.pbix` in Power BI Desktop.  
