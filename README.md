@@ -65,6 +65,15 @@ The dashboard includes seven interactive charts:
 
 ---
 
+## Significance
+This dashboard provides a **rigorous, data-driven perspective** on gender representation in media headlines. It is suitable for:  
+- Academic research in media and gender studies  
+- Editorial decision-making  
+- Public awareness initiatives  
+- Comparative studies over time or across regions  
+
+---
+
 ### Dashboard Preview
 
 ![Gender Representation Dashboard](https://raw.githubusercontent.com/Janetkomaiya/Gender-Representation-in-Media-Headlines/d28c469bbc0bfb6b40fa9b059e4f52d05b68ecf2/gender_representation_Dashboard.png)
@@ -101,12 +110,4 @@ The dashboard includes seven interactive charts:
    If you use this dataset in your research, please cite:
 
    > Ifidon Komaiya, J. (2025). *Gender Representation in Media Headlines: Dataset and Dashboard*. [GitHub Repository](https://github.com/Janetkomaiya/Gender-Representation-in-Media-Headlines)
-
-
-## Significance
-This dashboard provides a **rigorous, data-driven perspective** on gender representation in media headlines. It is suitable for:  
-- Academic research in media and gender studies  
-- Editorial decision-making  
-- Public awareness initiatives  
-- Comparative studies over time or across regions  
 
